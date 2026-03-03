@@ -1,3 +1,3 @@
 # Hello
 
-This is a test file
+![banner](banner.svg)
