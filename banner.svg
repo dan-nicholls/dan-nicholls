@@ -1,4 +1,4 @@
-<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
   <style>
     @font-face {
       font-family: "Montserrat";
@@ -41,43 +41,43 @@
     }
   </style>
 
-  <rect class="bg" x="0" y="0" width="800" height="400" />
+  <rect class="bg" x="0" y="0" width="1000" height="400" />
 
-  <g transform="translate(-400 -200) scale(2)">
-    <path id="line1" class="route-path" d="M251.994 10.75 251.995 95.25C251.995 106.2955 269.903 115.25 291.995 115.25L517.5 115.25C539.592 115.25 557.5 124.2045 557.5 135.25L557.5 137.75C557.5 148.7955 575.409 157.75 597.5 157.75L759 157.75" />
-    <path id="line2" class="route-path" d="M20.5001 225.5 226 225.5C248.091 225.5 266 234.4545 266 245.5L266 265C266 276.0455 283.908 285 306 285L475.5 285C497.591 285 515.5 293.9545 515.5 305L515.5 388.25" />
+  <g transform="translate(-500 -200) scale(2)">
+    <path id="line1" class="route-path" d="M314.9925 -120V95.25A20 20 0 0 0 334.9925 115.25H646.875A20 20 0 0 1 666.875 135.25V137.75A20 20 0 0 0 686.875 157.75H948.75" />
+    <path id="line2" class="route-path" d="M25.625125 215.5H282.5A20 20 0 0 1 302.5 235.5V255A20 20 0 0 0 322.5 275H594.375A20 20 0 0 1 614.375 295V480" />
 
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line1">
-        OBJECT DETECTION
-        <animate attributeName="startOffset" from="0%" to="100%" begin="0s" dur="6s" repeatCount="indefinite" />
+      <textPath startOffset="-100%" text-anchor="middle" alignment-baseline="central" href="#line1" xml:space="preserve">
+        ML-OPS    •    COMPUTER VISION    •    OBJECT DETECTION
+        <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="0s" dur="8s" repeatCount="indefinite" />
       </textPath>
     </text>
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line1">
-        COMPUTER VISION
-        <animate attributeName="startOffset" from="0%" to="100%" begin="3s" dur="6s" repeatCount="indefinite" />
+      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line1" xml:space="preserve">
+        BACKEND    •    VIDEO DELIVERY
+        <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="4s" dur="8s" repeatCount="indefinite" />
       </textPath>
     </text>
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line2">
-        GO
-        <animate attributeName="startOffset" from="0%" to="100%" begin="0s" dur="6s" repeatCount="indefinite" />
+      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line2" xml:space="preserve">
+        JS    •    PYTHON    •    GO
+        <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="0s" dur="10s" repeatCount="indefinite" />
       </textPath>
     </text>
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line2">
-        PYTHON 
-        <animate attributeName="startOffset" from="0%" to="100%" begin="3s" dur="6s" repeatCount="indefinite" />
+      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line2" xml:space="preserve">
+        PYTORCH    •    DEEPSTREAM    •    GSTREAMER
+        <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="5s" dur="10s" repeatCount="indefinite" />
       </textPath>
     </text>
   </g>
 
-  <rect class="name-box" x="285" y="145" width="230" height="48"/>
-  <text class="name-text" x="400" y="169" font-size="40" text-anchor="middle" dominant-baseline="middle">DAN</text>
+  <rect class="name-box" x="385" y="145" width="230" height="48"/>
+  <text class="name-text" x="500" y="169" font-size="40" text-anchor="middle" dominant-baseline="middle">DAN</text>
 
-  <rect class="name-box" x="230" y="205" width="340" height="48"/>
-  <text class="name-text" x="400" y="229" font-size="40" text-anchor="middle" dominant-baseline="middle">NICHOLLS</text>
+  <rect class="name-box" x="330" y="205" width="340" height="48"/>
+  <text class="name-text" x="500" y="229" font-size="40" text-anchor="middle" dominant-baseline="middle">NICHOLLS</text>
 
-  <text class="role-text" x="400" y="273" font-size="15" text-anchor="middle">SOFTWARE ENGINEER</text>
+  <text class="role-text" x="500" y="273" font-size="15" text-anchor="middle">SOFTWARE ENGINEER</text>
 </svg>
