@@ -48,25 +48,25 @@
     <path id="line2" class="route-path" d="M25.625125 215.5H282.5A20 20 0 0 1 302.5 235.5V255A20 20 0 0 0 322.5 275H594.375A20 20 0 0 1 614.375 295V480" />
 
     <text class="path-text">
-      <textPath startOffset="-100%" text-anchor="middle" alignment-baseline="central" href="#line1" xml:space="preserve">
+      <textPath startOffset="-100%" text-anchor="middle" alignment-baseline="middle" dominant-baseline="middle" href="#line1" xml:space="preserve">
         ML-OPS    •    COMPUTER VISION    •    OBJECT DETECTION
         <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="0s" dur="8s" repeatCount="indefinite" />
       </textPath>
     </text>
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line1" xml:space="preserve">
+      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="middle" dominant-baseline="middle" href="#line1" xml:space="preserve">
         BACKEND    •    VIDEO DELIVERY
         <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="4s" dur="8s" repeatCount="indefinite" />
       </textPath>
     </text>
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line2" xml:space="preserve">
+      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="middle" dominant-baseline="middle" href="#line2" xml:space="preserve">
         JS    •    PYTHON    •    GO
         <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="0s" dur="10s" repeatCount="indefinite" />
       </textPath>
     </text>
     <text class="path-text">
-      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="central" href="#line2" xml:space="preserve">
+      <textPath startOffset="0%" text-anchor="middle" alignment-baseline="middle" dominant-baseline="middle" href="#line2" xml:space="preserve">
         PYTORCH    •    DEEPSTREAM    •    GSTREAMER
         <animate attributeName="startOffset" values="0%;100%;100%" keyTimes="0;0.7;1" begin="5s" dur="10s" repeatCount="indefinite" />
       </textPath>
