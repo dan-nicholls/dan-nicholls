@@ -3,8 +3,7 @@
 
 # Hello! 👋
 
-<p><strong>AI Software Engineer</strong> focused on computer vision, video delivery, and real-time systems.</p>
-<p><em>Based in Melbourne, VIC.</em></p>
+<p><strong>Software Engineer</strong> focused on computer vision, video delivery, and real-time systems. Based in Melbourne, VIC 🇦🇺.</p>
 
 ## Interests
 
