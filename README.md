@@ -22,6 +22,6 @@
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-dannicholls12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannicholls12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dannichollsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannichollsdev/)
-[![GitHub](https://img.shields.io/badge/GitHub-dan--nicholls-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan-nicholls)
+[![Email](https://img.shields.io/badge/Email-dannicholls12%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dannicholls12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dannichollsdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannichollsdev/)
+[![GitHub](https://img.shields.io/badge/GitHub-dan--nicholls-f0f6fc?style=flat-square&logo=github&logoColor=181717)](https://github.com/dan-nicholls)
