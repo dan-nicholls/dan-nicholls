@@ -22,6 +22,6 @@
 
 ## Contact
 
-- Email: [dannicholls12@gmail.com](mailto:dannicholls12@gmail.com)
-- GitHub: [@dan-nicholls](https://github.com/dan-nicholls)
-- LinkedIn: [dannichollsdev](https://www.linkedin.com/in/dannichollsdev/)
+[![Email](https://img.shields.io/badge/Email-dannicholls12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannicholls12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dannichollsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannichollsdev/)
+[![GitHub](https://img.shields.io/badge/GitHub-dan--nicholls-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan-nicholls)
